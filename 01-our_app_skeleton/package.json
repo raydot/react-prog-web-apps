@@ -1,0 +1,14 @@
+{
+  "name": "01-our_app_skeleton",
+  "version": "1.0.0",
+  "description": "Chatatrostphe 01!",
+  "main": "index.js",
+  "repository": "https://github.com/raydot/react-prog-web-apps",
+  "author": "Dave Kanter",
+  "license": "MIT",
+  "dependencies": {
+    "react": "15.6.1",
+    "react-dom": "15.6.1",
+    "webpack": "3.5.4"
+  }
+}
